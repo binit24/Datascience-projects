@@ -1,2 +1,2 @@
-# Datascience.com
+# Datascience projects.com
 Data Science Projects
